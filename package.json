@@ -7,7 +7,7 @@
     "gulp-notify": "~0.4.0",
     "gulp-uglify": "~0.2.0",
     "gulp": "~3.5.1",
-    "gulp-rev": "git+ssh://git@github.com:dtinth/gulp-rev.git",
+    "gulp-rev": "git+ssh://git@github.com:stylenclass/gulp-rev.git",
     "gulp-util": "~2.2.14",
     "gulp-usemin": "~0.1.3",
     "gulp-ngmin": "~0.1.2",
