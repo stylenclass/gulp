@@ -1,0 +1,1 @@
+angular.module("whateverx").controller("MyCtrl",["$scope","$http",function(a){a.a=1}]),angular.module("myModuleName").service("myService",["$scope",function(a){a.b=2}]);

@@ -1,0 +1,1 @@
+angular.module("whateverx").controller("MyCtrl",function(a){a.c=1}),angular.module("whateverx").controller("MyCtrl",function(a){a.d=1});
